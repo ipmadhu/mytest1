@@ -7,36 +7,20 @@
        <link>http://somafm.com/groovesalad56.pls</link>
     </item>
     <item>
-       <title>BassDrive AAC</title>
-       <link>http://www.bassdrive.com/v2/streams/BassDrive3.pls</link>
+       <title>Radio City 1</title>
+       <link>http://208.115.222.203:8870</link>
     </item>
     <item>
-       <title>BassDrive 128</title>
-       <link>http://www.bassdrive.com/v2/streams/BassDrive.pls</link>
+        <title>Hungama Kannada</title>
+        <link>http://123.176.41.8:8256</link>
     </item>
     <item>
-    	<title>Radio Swiss Classic</title>
-    	<link>http://www.radioswissclassic.ch/live/mp3.m3u</link>
+        <title>Radio City2</title>
+        <link>http://69.162.110.166:8870</link>
     </item>
     <item>
-    	<title>Radio Swiss Jazz</title>
-    	<link>http://www.radioswissjazz.ch/live/mp3.m3u</link>
-    </item>
-    <item>
-    	<title>BBC</title>
-    	<link>http://www.bbc.co.uk/radio/listen/live/r5l_aaclca.pls</link>
-    </item>
-    <item>
-        <title>Test MP3 file</title>
-        <link>https://dl.dropboxusercontent.com/u/995250/FreeStreamer/As%20long%20as%20the%20stars%20shine.mp3</link>
-    </item>
-    <item>
-        <title>Local MP3 file</title>
-        <link>file://test.mp3</link>
-    </item>
-    <item>
-        <title>M3U playlist test</title>
-        <link>https://raw.githubusercontent.com/muhku/FreeStreamer/master/Extra/test-playlist.m3u</link>
+        <title>BBC</title>
+        <link>http://www.bbc.co.uk/radio/listen/live/r5l_aaclca.pls</link>
     </item>
   </channel>
 </rss>
