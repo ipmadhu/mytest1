@@ -3,7 +3,11 @@
   <channel>
     <title>Playlist Feed</title>
     <item>
-       <title>soma.fm GrooveSalad MP3 56</title>
+        <title>BBC</title>
+        <link>http://www.bbc.co.uk/radio/listen/live/r5l_aaclca.pls</link>
+    </item>
+    <item>
+       <title>soma.fm </title>
        <link>http://somafm.com/groovesalad56.pls</link>
     </item>
     <item>
@@ -17,10 +21,6 @@
     <item>
         <title>Radio City2 - ರೆಡಿಯೊ ಸಿಟಿ 2</title>
         <link>http://69.162.110.166:8870</link>
-    </item>
-    <item>
-        <title>BBC</title>
-        <link>http://www.bbc.co.uk/radio/listen/live/r5l_aaclca.pls</link>
     </item>
   </channel>
 </rss>
