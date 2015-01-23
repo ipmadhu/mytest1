@@ -5,6 +5,6 @@
       {"radio_id":"2", "name":"Radio Girmit", "url":"http://149.255.33.76:8070" , "img_url":"girmit.png"},
       {"radio_id":"3", "name":"RadioCity Kannada", "url":"http://208.115.222.203:8870", "img_url":"radiocity_kannada.jpg"},
       {"radio_id":"4", "name":"RadioCity FM", "url":"http://69.162.110.166:8870", "img_url":"radiocity_kannada2.jpg"},
-      {"radio_id":"5", "name":"Madhu's Broadcast 1", "url":"http://95.154.202.117:6653", "img_url":""}
+      {"radio_id":"5", "name":"Madhu's Broadcast 1", "url":"http://95.154.202.117:6653", "img_url":"volume_up.png"}
 	]
 }
