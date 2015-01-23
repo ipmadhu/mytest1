@@ -1,11 +1,10 @@
 {
 	"radio":
 	[
-      {"radio_id":"1", "name":"Hungama-Kannada", "url":"http://123.176.41.8:8256" , "img_url":""},
-      {"radio_id":"2", "name":"hitfm", "url":"http://www.hitfm.ua/HitFM.m3u" , "img_url":"http://www.hitfm.ua/static/img/hit_fm_logo.png"},
-      {"radio_id":"3", "name":"kissfm", "url":"http://kissfm.ua/v3/kiss-fast.m3u", "img_url":"http://new.kissfm.ua/static/img/kiss-logo.jpg"},
-      {"radio_id":"4", "name":"Radio City 1", "url":"http://208.115.222.203:8870", "img_url":""},
-      {"radio_id":"5", "name":"Radio City2", "url":"http://69.162.110.166:8870", "img_url":""},
-      {"radio_id":"6", "name":"Madhu's Broadcast 1", "url":"http://95.154.202.117:6653", "img_url":""}
+      {"radio_id":"1", "name":"Hungama-Kannada", "url":"http://123.176.41.8:8256" , "img_url":"hungama.jpeg"},
+      {"radio_id":"2", "name":"Radio Girmit", "url":"http://149.255.33.76:8070" , "img_url":"girmit.png"},
+      {"radio_id":"3", "name":"RadioCity Kannada", "url":"http://208.115.222.203:8870", "img_url":"radiocity_kannada.jpg"},
+      {"radio_id":"4", "name":"RadioCity FM", "url":"http://69.162.110.166:8870", "img_url":"radiocity_kannada2.jpg"},
+      {"radio_id":"5", "name":"Madhu's Broadcast 1", "url":"http://95.154.202.117:6653", "img_url":""}
 	]
 }
